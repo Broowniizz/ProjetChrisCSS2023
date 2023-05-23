@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url(/assets/fonts/Roboto/Roboto-Regular.ttf);
+}
+body{
+    text-align: center;
+    margin: 0;
+    font-family:"Roboto-Regular";
+}
+header{
+    background-image:url(/assets/image/banner-1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding:80px;
+    
+}
+h1{
+    color: white;
+    font-size: 4rem;
+    
+.center{
+    padding: 20px 100px;
+    margin: 0;   
+}
+
+}
+header>p{
+    color: white;
+}
+.btn1{
+    color: rgb(0, 0, 0);
+    background-color:white;
+    display: inline-block;
+    border: 1px solide black;
+    border-radius: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-transform:
+    
+}
+h2{
+    font-size: 3rem;
+}
+
+.btn2{
+    color: rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    display: inline-block;
+    border: 1px solide rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin-bottom: 50px;
+}
+
+.texte{
+    color: gray;
+    padding: 20px 400px;
+}
+footer{
+    background-color:#2B2B2B;
+    background-size: cover;
+    padding: 10px 10px;
+    color: white;
+    margin: 0;
+}
+main>section:last-child{
+background-image: url(/assets/image/banner-2.jpg);
+height: 500px;
+background-position: center;
+background-size: cover;
+}
